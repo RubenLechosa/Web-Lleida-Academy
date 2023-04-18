@@ -89,17 +89,12 @@ section .imgFondo .uno{
     }
 
     .content .titleBanner{
-        font-size: 10px !important;
+        font-size: 12px !important;
         font-weight: 1000;
     }
 
     .content a{  
-        border: 2px solid white;
-        border-radius: 20px;
-        padding: 0.4rem 0.6rem 0.4rem 0.6rem;
-        transition: .5s;
-        font-weight: bold;
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .content .textBanner{
